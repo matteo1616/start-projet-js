@@ -1,6 +1,6 @@
 #Start projet js
 
-To start your project, you must run in the console `npm install` and after `npm start`
+To start your project, you must run in the console ```npm install``` and after ```npm start```
 
 Dev-dependencies: Browser-Sync
 
