@@ -1,0 +1,14 @@
+{
+  "name": "base-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files 'index.html, src/*.html, src/styles/*.css, src/scripts/*.js, "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
